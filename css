@@ -1,0 +1,68 @@
+/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/
+p.site-description {
+	color: #777;
+	font-weight: 500;
+}
+
+/*Change font weight across site*/
+p {
+	font-weight: 500;
+}
+
+li {
+	font-weight: 400;
+}
+
+/*Whatsapp box font color*/
+label.grunion-field-label.name {
+	color: white;
+}
+
+input#g1-phonenumber, input#g100-phonenumber, input#g193-phonenumber, input#g292-phonenumber, input#g333-phonenumber, input#g386-phonenumber {
+	margin: auto;
+	margin-bottom: 5px;
+}
+
+/*Slider formatting*/
+.slideshow-slide {
+	background-color: white;
+}
+
+div#gallery-108-2-slideshow, div#gallery-151-2-slideshow, div#gallery-149-2-slideshow, div#gallery-147-2-slideshow {
+	border-color: white;
+}
+
+#header .pad {
+	padding-bottom: 0;
+}
+
+/*Remove border color from image container*/
+.entry .wp-caption {
+	background: #ffffff;
+}
+
+/*Download button CSS*/
+.ddownload-button {
+	color: white !important;
+	border: 0;
+	background-image: -webkit-linear-gradient(#ff7100,#ff7100);
+	font-family: lato;
+	text-shadow: 0 0 0;
+	font-size: medium;
+	margin-bottom: 10px;
+}
+
+.ddownload-button:hover {
+	color: white !important;
+	border: 0;
+	background-image: -webkit-linear-gradient(#fd8c32,#fd8c32);
+}
+
+/*Font size for block-quote*/
+td {
+	font-size: x-large;
+}
